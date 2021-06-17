@@ -1,6 +1,6 @@
 # e-commerce-back-end
 Video Link: https://drive.google.com/file/d/1L6I3SSlpnppjQRMmMhK8XDk1_gFxz9ob/view?usp=sharing
-Git Hub Code: git@github.com:yana-mkr/e-commerce-back-end.git
+Git Hub Code: https://github.com/yana-mkr/e-commerce-back-end
 
 In this application, the user is able to pull, post, change, and delete different products, categories, and tags through the application.
 
